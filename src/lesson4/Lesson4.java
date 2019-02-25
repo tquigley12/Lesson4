@@ -122,7 +122,7 @@ public class Lesson4 {
     } else if ((number <= Integer.MAX_VALUE) && (number >= Integer.MIN_VALUE)) {
         System.out.println("n INTEGER");
     } else {
-        System.out.println("LONG");
+        System.out.println(" LONG");
     }
     
     /**
